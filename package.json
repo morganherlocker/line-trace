@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/morganherlocker/line-trace/issues"
   },
-  "homepage": "https://github.com/morganherlocker/line-trace"
+  "homepage": "https://github.com/morganherlocker/line-trace",
+  "devDependencies": {
+    "tape": "^3.0.1"
+  }
 }
